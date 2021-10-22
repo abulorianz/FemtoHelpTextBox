@@ -36,10 +36,10 @@ namespace CustomCtrl.CustomCtrl
             // 
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox1.Location = new System.Drawing.Point(7, 7);
+            this.textBox1.Location = new System.Drawing.Point(10, 7);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(236, 16);
+            this.textBox1.Size = new System.Drawing.Size(230, 16);
             this.textBox1.TabIndex = 1;
             this.textBox1.Click += new System.EventHandler(this.textBox1_Click);
             this.textBox1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.textBox1_MouseClick);
@@ -64,7 +64,7 @@ namespace CustomCtrl.CustomCtrl
             this.Controls.Add(this.textBox1);
             this.Font = new System.Drawing.Font("Tahoma", 10F);
             this.Name = "FemtoHelpTextBox";
-            this.Padding = new System.Windows.Forms.Padding(7);
+            this.Padding = new System.Windows.Forms.Padding(10, 7, 10, 7);
             this.Size = new System.Drawing.Size(250, 30);
             this.ResumeLayout(false);
             this.PerformLayout();

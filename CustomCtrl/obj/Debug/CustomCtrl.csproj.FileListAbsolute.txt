@@ -8,3 +8,4 @@ E:\c#\CustomCtrl\CustomCtrl\CustomCtrl\bin\Debug\FemtoHelp_CustomCtrl.pdb
 E:\c#\CustomCtrl\CustomCtrl\CustomCtrl\obj\Debug\CustomControl.Properties.Resources.resources
 E:\c#\CustomCtrl\CustomCtrl\CustomCtrl\obj\Debug\FemtoHelp_CustomCtrl.dll
 E:\c#\CustomCtrl\CustomCtrl\CustomCtrl\obj\Debug\FemtoHelp_CustomCtrl.pdb
+E:\c#\CustomCtrl\CustomCtrl\CustomCtrl\obj\Debug\CustomCtrl.sourcelink.json
